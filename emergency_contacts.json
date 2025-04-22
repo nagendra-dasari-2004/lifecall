@@ -1,0 +1,16 @@
+{
+    "national_emergency": {
+        "india": "112",
+        "ambulance_india": "108",
+        "us": "911"
+    },
+    "hospitals": [
+        {
+            "name": "Apollo Hospitals",
+            "locations": [
+                {"city": "Delhi", "contact": "+91 11 4050 4050"},
+                {"city": "Mumbai", "contact": "+91 22 6245 6245"}
+            ]
+        }
+    ]
+}
